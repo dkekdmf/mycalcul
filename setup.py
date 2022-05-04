@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
  include_package_data = True,
-  name=mycalcul0001,
+  name  = mycalcul0001,
   version'1.0.0',
   description'oss-dev mycalcul',
   author'dkekdmf',
